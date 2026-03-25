@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Emergency First Aid Instructions – LifeSaver Offline First Aid Assistant" />
+  <meta name="theme-color" content="#ef4444" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-title" content="LifeSaver" />
+  <title>First Aid Instructions – LifeSaver</title>
+
+  <!-- PWA Manifest -->
+  <link rel="manifest" href="./pwa/manifest.json" />
+  <link rel="apple-touch-icon" href="./assets/icons/icon-192.png" />
+  <link rel="icon" type="image/svg+xml" href="./assets/icons/favicon.svg" />
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="./css/styles.css" />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
+</head>
+<body class="dark detail-page">
+
+  <!-- ── NAV BAR ──────────────────────────────────────────────────────────────── -->
+  <div class="detail-nav" role="navigation" aria-label="Back navigation">
+    <button class="back-btn" onclick="history.back()" aria-label="Go back to previous page">
+      ← Back
+    </button>
+    <a href="./index.html" class="back-btn" aria-label="Go to home page">
+      🏥 Home
+    </a>
+    <div style="flex:1"></div>
+    <span id="detail-page-title" style="font-size:0.85rem; color:var(--text-secondary); font-weight:500;"></span>
+  </div>
+
+  <!-- ── MAIN CONTENT ──────────────────────────────────────────────────────────── -->
+  <main>
+    <div class="detail-content" id="emergency-detail-container" role="main" aria-live="polite" aria-label="Emergency instructions">
+      <!-- Content injected by emergency.js -->
+    </div>
+  </main>
+
+  <!-- ── SOS FAB ──────────────────────────────────────────────────────────────── -->
+  <button id="sos-fab" aria-label="Open emergency SOS call dialog">
+    🆘
+    <span class="sos-fab-text">SOS</span>
+  </button>
+
+  <!-- ── Page-specific script ─────────────────────────────────────────────────── -->
+  <script type="module" src="./js/emergency.js"></script>
+</body>
+</html>

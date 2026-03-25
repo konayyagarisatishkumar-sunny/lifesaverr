@@ -1,0 +1,37 @@
+{
+  "id": "fractures",
+  "title": "Fractures",
+  "icon": "🦴",
+  "severity": "Medium",
+  "summary": "A fracture is a broken or cracked bone. Improper handling can worsen the injury or cause nerve and blood vessel damage.",
+  "steps": [
+    "Tell the person to stay still. Do not move them unless in immediate danger.",
+    "Immobilize the injured area using a splint (stiff material like a board) padded with soft material.",
+    "Tie the splint in place above and below the fracture — not directly on it.",
+    "If bleeding, apply gentle pressure around (not over) the wound.",
+    "Elevate the injury if possible to reduce swelling.",
+    "Apply ice or a cold pack wrapped in cloth to reduce swelling.",
+    "Monitor circulation below the fracture — check for numbness, pallor, or coldness."
+  ],
+  "what_to_do": [
+    "Keep the injured limb still and supported",
+    "Splint the bone in the position found",
+    "Apply cold pack to reduce swelling",
+    "Elevate the injured area if safe to do so",
+    "Treat for shock if necessary"
+  ],
+  "what_not_to_do": [
+    "Do NOT try to straighten or realign the bone",
+    "Do NOT move the person if you suspect a spine or neck fracture",
+    "Do NOT tie a splint too tightly — it can cut off circulation",
+    "Do NOT allow the person to walk on a fractured limb",
+    "Do NOT give food or water (surgery may be needed)"
+  ],
+  "when_to_call_ambulance": [
+    "Suspected fracture of the spine, neck, or skull",
+    "Bone is visible through the skin (open fracture)",
+    "Severe swelling, deformity, or inability to move the limb",
+    "Signs of blood vessel or nerve damage (numbness, tingling, loss of color)",
+    "Multiple fractures or serious accident"
+  ]
+}

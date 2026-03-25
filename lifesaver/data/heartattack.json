@@ -1,0 +1,38 @@
+{
+  "id": "heartattack",
+  "title": "Heart Attack",
+  "icon": "❤️",
+  "severity": "Critical",
+  "summary": "A heart attack occurs when blood flow to part of the heart is blocked. Every minute without treatment can cause permanent heart damage.",
+  "steps": [
+    "Call emergency services (108/112) immediately — do not wait.",
+    "Help the person sit or lie in a comfortable position (semi-upright is best).",
+    "Loosen any tight clothing around the neck, chest, or waist.",
+    "If the person is conscious and not allergic, give them 300mg aspirin to chew slowly.",
+    "Keep the person calm and still — reassure them help is coming.",
+    "Monitor their breathing and pulse continuously.",
+    "If the person becomes unconscious and stops breathing — begin CPR immediately.",
+    "Use an AED (Automated Defibrillator) if available and follow its instructions."
+  ],
+  "what_to_do": [
+    "Call emergency services immediately",
+    "Keep the person still and calm",
+    "Give aspirin (300mg) if available and not contraindicated",
+    "Loosen tight clothing",
+    "Prepare to perform CPR if they become unresponsive"
+  ],
+  "what_not_to_do": [
+    "Do NOT leave the person alone",
+    "Do NOT allow the person to walk or exert themselves",
+    "Do NOT give aspirin if allergic or if already on blood thinners without guidance",
+    "Do NOT apply pressure to the chest manually",
+    "Do NOT give food or water"
+  ],
+  "when_to_call_ambulance": [
+    "Immediately when you suspect a heart attack",
+    "Chest pain, tightness, or pressure lasting more than a few minutes",
+    "Pain spreading to the arm, neck, jaw, or back",
+    "Shortness of breath, cold sweat, nausea, or lightheadedness",
+    "Person becomes unconscious or unresponsive"
+  ]
+}

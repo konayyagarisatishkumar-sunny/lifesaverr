@@ -1,0 +1,38 @@
+{
+  "id": "bleeding",
+  "title": "Bleeding",
+  "icon": "🩹",
+  "severity": "High",
+  "summary": "Severe bleeding can lead to shock and death within minutes. Immediate action to control blood flow is critical.",
+  "steps": [
+    "Protect yourself — wear gloves if available to avoid infection.",
+    "Apply firm, direct pressure on the wound with a clean cloth or bandage.",
+    "Maintain continuous pressure for at least 10 minutes without peeking.",
+    "If blood soaks through, add more cloth on top — do NOT remove the first layer.",
+    "Elevate the injured area above the level of the heart if possible.",
+    "If bleeding is from a limb and uncontrollable, consider applying a tourniquet above the wound.",
+    "Keep the person still, warm, and calm. Monitor for shock."
+  ],
+  "what_to_do": [
+    "Apply and maintain firm direct pressure",
+    "Elevate the wound if possible",
+    "Keep the person calm and lying down",
+    "Use clean cloth or bandage to cover wound",
+    "Watch for signs of shock (pale, cold, rapid breathing)"
+  ],
+  "what_not_to_do": [
+    "Do NOT remove the cloth if soaked — add more on top",
+    "Do NOT probe or explore the wound",
+    "Do NOT apply a tourniquet unless absolutely necessary",
+    "Do NOT give food or water to a severely bleeding person",
+    "Do NOT leave the person alone"
+  ],
+  "when_to_call_ambulance": [
+    "Bleeding does not stop after 10–15 minutes of pressure",
+    "Deep wound or wound that exposes bone or muscle",
+    "Wound is from a large or sharp object",
+    "Signs of shock: pale, cold, faint, rapid weak pulse",
+    "Head, neck, or chest wound",
+    "Large amounts of blood loss"
+  ]
+}

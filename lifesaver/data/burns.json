@@ -1,0 +1,38 @@
+{
+  "id": "burns",
+  "title": "Burns",
+  "icon": "🔥",
+  "severity": "High",
+  "summary": "Burns can be caused by heat, chemicals, electricity, or radiation. Quick action is crucial to minimize damage.",
+  "steps": [
+    "Remove the person from the source of heat or burn immediately.",
+    "Cool the burn under cool (not cold) running water for at least 10–20 minutes.",
+    "Remove any jewelry, watches, or clothing near the burn area — but NOT if stuck to skin.",
+    "Cover the burn loosely with a sterile, non-fluffy bandage or clean cloth.",
+    "Do NOT apply butter, toothpaste, oil, or ice to the burn.",
+    "Give over-the-counter pain relief (e.g. paracetamol) if available.",
+    "Keep the person warm to prevent shock while cooling the burn."
+  ],
+  "what_to_do": [
+    "Cool the burn with running water for 10–20 minutes",
+    "Use a clean, non-fluffy covering to protect the area",
+    "Keep the person warm and calm",
+    "Monitor for signs of shock",
+    "Seek medical help for large, deep, or facial burns"
+  ],
+  "what_not_to_do": [
+    "Do NOT use ice, iced water, or cold packs",
+    "Do NOT apply butter, oil, toothpaste, or creams",
+    "Do NOT burst any blisters that form",
+    "Do NOT remove clothing stuck to skin",
+    "Do NOT leave the person unattended if severely burned"
+  ],
+  "when_to_call_ambulance": [
+    "Burns larger than the size of the person's palm",
+    "Burns on the face, hands, feet, genitals, joints, or a large area of the body",
+    "Deep burns (white or charred skin)",
+    "Chemical or electrical burns",
+    "The person is having difficulty breathing",
+    "Child or elderly person is burned"
+  ]
+}

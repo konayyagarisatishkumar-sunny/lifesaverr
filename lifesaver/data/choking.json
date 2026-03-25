@@ -1,0 +1,38 @@
+{
+  "id": "choking",
+  "title": "Choking",
+  "icon": "😮",
+  "severity": "Critical",
+  "summary": "Choking occurs when a foreign object lodges in the throat, blocking the airway. It can be fatal within minutes without intervention.",
+  "steps": [
+    "Ask the person 'Are you choking?' — If they can cough, encourage them to keep coughing.",
+    "If they cannot cough, speak, or breathe — call for emergency help immediately.",
+    "Bend the person forward and give up to 5 firm back blows between the shoulder blades with the heel of your hand.",
+    "Check their mouth after each blow — remove any visible obstruction.",
+    "If back blows don't work, give up to 5 abdominal thrusts (Heimlich maneuver).",
+    "Place your fist (thumb side) just above the navel, below the ribs. Grasp with the other hand and thrust sharply upward.",
+    "Alternate 5 back blows and 5 abdominal thrusts until the object is dislodged or help arrives.",
+    "If the person becomes unconscious, begin CPR immediately."
+  ],
+  "what_to_do": [
+    "Encourage coughing if the person can still breathe",
+    "Give back blows between shoulder blades",
+    "Attempt abdominal thrusts (Heimlich maneuver)",
+    "Call emergency services if the obstruction is severe",
+    "Start CPR if the person loses consciousness"
+  ],
+  "what_not_to_do": [
+    "Do NOT perform blind finger sweeps in the mouth",
+    "Do NOT give liquid to a choking person",
+    "Do NOT leave the person alone",
+    "Do NOT perform abdominal thrusts on infants — use back blows only",
+    "Do NOT apply abdominal thrusts on pregnant women — use chest thrusts"
+  ],
+  "when_to_call_ambulance": [
+    "The obstruction does not clear with back blows and abdominal thrusts",
+    "The person becomes unconscious or stops breathing",
+    "The choking victim is an infant or child",
+    "The person is pregnant or obese (use chest thrusts instead)",
+    "Person has a history of respiratory illness or heart problems"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "fainting",
+  "title": "Fainting",
+  "icon": "😵",
+  "severity": "Medium",
+  "summary": "Fainting (syncope) is a temporary loss of consciousness due to reduced blood flow to the brain. Most cases recover quickly.",
+  "steps": [
+    "If the person feels faint: have them sit or lie down immediately to prevent injury from a fall.",
+    "If they have fainted: lay the person flat on their back in a safe location.",
+    "Raise their legs 15–30 cm (about 12 inches) above the level of their heart.",
+    "Loosen any tight clothing around the neck, chest, and waist.",
+    "Ensure fresh air — open windows or move the person to a ventilated area.",
+    "Check for normal breathing and pulse.",
+    "When conscious, keep the person lying down for a few more minutes.",
+    "Offer water slowly after full recovery — do not give if still unconscious."
+  ],
+  "what_to_do": [
+    "Lay the person flat and raise their legs",
+    "Loosen tight clothing",
+    "Ensure fresh air circulation",
+    "Monitor breathing and pulse",
+    "Let the person rest before standing up"
+  ],
+  "what_not_to_do": [
+    "Do NOT leave the person sitting in a chair — lay them flat",
+    "Do NOT splash cold water on the face forcefully",
+    "Do NOT give food or drink until fully conscious",
+    "Do NOT allow the person to stand up too quickly after recovering",
+    "Do NOT crowd around the person — give them space and air"
+  ],
+  "when_to_call_ambulance": [
+    "The person does not regain consciousness within 1–2 minutes",
+    "The person had a seizure or convulsions",
+    "Fainting occurred after a head injury or during exercise",
+    "Person is diabetic, elderly, or has a heart condition",
+    "Breathing is absent or irregular after fainting",
+    "Fainting is accompanied by chest pain or palpitations"
+  ]
+}

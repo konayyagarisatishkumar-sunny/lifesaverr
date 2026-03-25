@@ -1,0 +1,41 @@
+{
+  "id": "cpr",
+  "title": "CPR Guide",
+  "icon": "💓",
+  "severity": "Critical",
+  "summary": "CPR (Cardiopulmonary Resuscitation) can double or triple a cardiac arrest victim's chance of survival when performed immediately.",
+  "steps": [
+    "Check the scene is safe, then check the person for responsiveness — tap shoulders and shout.",
+    "If unresponsive, call emergency services (108/112) immediately or ask someone to call.",
+    "Lay the person flat on their back on a firm surface.",
+    "Tilt their head back gently and lift the chin to open the airway.",
+    "Look, listen, and feel for breathing for no more than 10 seconds.",
+    "If not breathing normally, begin chest compressions: Place hands (one on top of the other) on the center of the chest.",
+    "Push hard and fast — compress the chest at least 5 cm deep at 100–120 compressions per minute.",
+    "After 30 compressions, give 2 rescue breaths: pinch the nose, seal your mouth over theirs, breathe in steadily for 1 second.",
+    "Continue cycles of 30 compressions and 2 rescue breaths until help arrives or the person shows signs of life.",
+    "Use an AED as soon as it is available — follow the on-screen instructions."
+  ],
+  "what_to_do": [
+    "Call for help first or ask a bystander to call",
+    "Start chest compressions immediately if person is unresponsive and not breathing",
+    "Push hard and fast — 100–120 compressions per minute",
+    "Give 2 rescue breaths after every 30 compressions",
+    "Use an AED as soon as one is available",
+    "Continue until emergency responders arrive"
+  ],
+  "what_not_to_do": [
+    "Do NOT delay starting CPR to find help",
+    "Do NOT stop compressions unnecessarily",
+    "Do NOT compress too slowly or too shallowly",
+    "Do NOT tilt the head forward — always tilt back to open airway",
+    "Do NOT perform CPR on a conscious person who is breathing"
+  ],
+  "when_to_call_ambulance": [
+    "Immediately when a person is unresponsive and not breathing",
+    "After cardiac arrest or suspected heart attack",
+    "Following sudden collapse or loss of consciousness",
+    "After near-drowning or choking episode causing unconsciousness",
+    "Always call emergency services even if CPR is ongoing"
+  ]
+}

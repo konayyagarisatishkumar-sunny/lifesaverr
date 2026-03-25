@@ -1,0 +1,40 @@
+{
+  "id": "snakebite",
+  "title": "Snake Bite",
+  "icon": "🐍",
+  "severity": "High",
+  "summary": "Many snake bites can be dangerous or fatal. Quick, calm action and immediate medical attention are essential for survival.",
+  "steps": [
+    "Move away from the snake immediately — do not attempt to catch or kill it.",
+    "Keep the person calm and still to slow down venom spread through the body.",
+    "Remove all jewelry and tight clothing from the bitten area as swelling may occur.",
+    "Immobilize the bitten limb at or below heart level.",
+    "Mark the edge of the swelling with a pen, noting the time.",
+    "Transport the person to the nearest hospital as soon as possible.",
+    "If possible, note the snake's appearance (color, size, pattern) to help identify it.",
+    "Keep the person lying down during transportation."
+  ],
+  "what_to_do": [
+    "Keep the person and the bitten limb still",
+    "Get to a hospital as quickly as possible",
+    "Immobilize and keep the bitten limb below heart level",
+    "Note the time of the bite and any symptoms",
+    "Keep the person calm to slow the spread of venom"
+  ],
+  "what_not_to_do": [
+    "Do NOT suck the venom out with your mouth",
+    "Do NOT cut or incise the bite wound",
+    "Do NOT apply a tourniquet or ice",
+    "Do NOT give caffeine or alcohol",
+    "Do NOT allow the person to walk if avoidable",
+    "Do NOT try to capture or kill the snake"
+  ],
+  "when_to_call_ambulance": [
+    "Immediately after any suspected venomous snake bite",
+    "Pain, swelling, or discoloration at the bite site",
+    "Nausea, vomiting, or dizziness after the bite",
+    "Difficulty breathing or swallowing",
+    "Blurred vision, numbness, or paralysis",
+    "Loss of consciousness"
+  ]
+}

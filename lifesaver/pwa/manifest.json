@@ -1,0 +1,61 @@
+{
+  "name": "LifeSaver",
+  "short_name": "LifeSaver",
+  "description": "Offline First Aid Assistant – Emergency help without internet",
+  "start_url": "/lifesaver/index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#ef4444",
+  "orientation": "portrait",
+  "scope": "/lifesaver/",
+  "lang": "en",
+  "categories": ["health", "medical", "utilities"],
+  "icons": [
+    {
+      "src": "/lifesaver/assets/icons/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/lifesaver/assets/icons/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/lifesaver/assets/icons/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/lifesaver/assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/lifesaver/assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "CPR Guide",
+      "short_name": "CPR",
+      "description": "Open CPR Guide",
+      "url": "/lifesaver/emergency.html?id=cpr",
+      "icons": [{ "src": "/lifesaver/assets/icons/icon-96.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Burns",
+      "short_name": "Burns",
+      "description": "Burns First Aid",
+      "url": "/lifesaver/emergency.html?id=burns",
+      "icons": [{ "src": "/lifesaver/assets/icons/icon-96.png", "sizes": "96x96" }]
+    }
+  ]
+}
